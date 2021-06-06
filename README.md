@@ -1,9 +1,10 @@
 # k1tsukendo's KendoXEngine (XE) ver 1.0.0
-## Python game engine based on SDL2
+Python game engine based on SDL2 by k1tsukendo
 
-### How to use
+## How to use
+<hr>
 
-## Installation
+### Installation
 #### Linux (&& other Unix-OS)
 + Open terminal;
 + Type:
